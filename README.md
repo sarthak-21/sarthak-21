@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning emerging web dev technologies.
 - 💞️ I’m looking to collaborate on web related projects.
-- 📫 How to reach me --> Email- luthrasarthak83@gmail.com
 
 <!---
 sarthak-21/sarthak-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
